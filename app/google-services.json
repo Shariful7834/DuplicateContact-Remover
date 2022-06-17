@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "395853671471",
+    "project_id": "duplicatecontact-a700b",
+    "storage_bucket": "duplicatecontact-a700b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395853671471:android:20ece2d400ee2e0cb92ada",
+        "android_client_info": {
+          "package_name": "com.prottoytechlab.duplicatecontact"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395853671471-ikk1k6qiutggi43e5pli7t6vqbcmmase.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.prottoytechlab.duplicatecontact",
+            "certificate_hash": "ceafe4bda916ebefc3d5a0757ef12e501f719b05"
+          }
+        },
+        {
+          "client_id": "395853671471-0pp9mbhus43l2ir1c30d9fh7ch19qvf6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEG6MKYYsyB4IbFsLZzldTYqRp-OTFZy0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395853671471-0pp9mbhus43l2ir1c30d9fh7ch19qvf6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
